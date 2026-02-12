@@ -10,20 +10,21 @@ The aim of the project is to develop a rigorous understanding of the aforementio
 
 ### Resources used so far:
 Mathematical theory of Bayesian Statistics by Sumio Watanabe
+
 DSLT 1. by Liam Carroll
 
 ### Project Leads:
-Smitali
-Bhavi
+- Smitali
+- Bhavi
 
 ### Project Members:
-Aarit
-Atharva
-Kailash
-Karthik
-Naitik
-Nishant
-Prajith
+- Aarit
+- Atharva
+- Kailash
+- Karthik
+- Naitik
+- Nishant
+- Prajith
 
 
 
