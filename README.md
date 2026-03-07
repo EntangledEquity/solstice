@@ -30,11 +30,7 @@ This repository contains tasks for Weeks 0–3, designed by Project Leads Smital
 ### Resources used so far:
 Mathematical theory of Bayesian Statistics by Sumio Watanabe
 
-DSLT 1. by Liam Carroll
-
-### Project Leads:
-- Smitali
-- Bhavi
+DSLT 1, DSLT 2 by Liam Carroll
 
 ### Project Members:
 - Aarit
@@ -45,5 +41,7 @@ DSLT 1. by Liam Carroll
 - Nishant
 - Prajith
 
-
+### Project Leads:
+- Smitali
+- Bhavi
 
